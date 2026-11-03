@@ -1,36 +1,30 @@
 # Ignacio Cardozo
 
-Java Backend Developer | PostgreSQL | Sistemas de Gestión  
-Estudiante de Tecnicatura Universitaria en Programación – UTN
+Junior Java Backend Developer | PostgreSQL · SQL | AI integration with Python
 
----
+[Español](README.es.md)
 
-## Sobre mí
+I'm based in Paraná, Argentina, and looking for remote Java backend opportunities. I also consider on-site or hybrid roles in Paraná and Santa Fe.
 
-Actualmente me desempeño como pasante en desarrollo y mantenimiento de un sistema legacy en Java en entorno productivo.  
-Trabajo con bases de datos PostgreSQL y generación de reportes para análisis operativo.
+## Professional experience
 
-Interesado en desarrollo backend, bases de datos y sistemas transaccionales en entornos institucionales.
+Since June 2025, I have worked as a development intern on SIGAP, a municipal management system in production. My work includes Java 8, JSP/Servlets, Hibernate/JPA, Apache Tomcat, PostgreSQL and SQL: maintenance, business validations, reports, query optimization and incident resolution.
 
----
+I work directly with users to understand requirements, organize tasks in Jira, demonstrate changes and incorporate feedback.
 
-## Tecnologías principales
+For **SIGAP Facturas AI**, I developed an invoice extraction workflow using Python and a local multimodal model, integrated with SIGAP's Java application. It has processed invoice batches; accuracy and time savings have not yet been quantified.
 
-- Java
-- PostgreSQL
-- SQL
-- Python
-- Git
-- Apache Tomcat
+## Selected academic projects
 
----
+These are individual academic projects, separate from my professional experience.
 
-## Actualmente
+- [Movie reviews — Java 21, Spring Boot, MongoDB and Redis](https://github.com/CardozoNacho/springboot-mongodb-redis-app): REST endpoints, Vaadin UI and caching. The README documents current cache limitations and verification still needed.
+- [Gym Routine Manager — FastAPI, React and PostgreSQL](https://github.com/CardozoNacho/gym-routine-manager): routine and exercise management through a web interface and API. The README includes local setup and pending Docker configuration fixes.
 
-- Mantenimiento y mejora de sistemas de gestión.
-- Optimización de consultas SQL.
-- Formación continua en desarrollo backend.
+## Education and languages
 
----
+- Studying the Tecnicatura Universitaria en Programación at UTN Paraná.
+- Completed the Diplomatura en Inteligencia Artificial at UTN Buenos Aires: 157 hours, grade **Sobresaliente**.
+- Spanish: native. English: B2, Cambridge First (2021).
 
-📍 Paraná, Argentina
+[LinkedIn](https://www.linkedin.com/in/carlos-ignacio-cardozo-peragallo-b00a603b3/)
