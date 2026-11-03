@@ -14,6 +14,8 @@ I work directly with users to understand requirements, organize tasks in Jira, d
 
 For **SIGAP Facturas AI**, I developed an invoice extraction workflow using Python and a local multimodal model, integrated with SIGAP's Java application. It has processed invoice batches; accuracy and time savings have not yet been quantified.
 
+I also developed and deployed **SIGAP → RCC invoice submission automation** to production, using Python and Playwright integrated with Java and PostgreSQL. It validates invoice data, checks existing records to avoid duplicate submissions, and verifies portal records before updating each invoice's status in SIGAP. The implementation includes automated component tests, a Windows installer and local credential protection with Windows DPAPI. Usage and time savings have not yet been quantified.
+
 ## Selected academic projects
 
 These are individual academic projects, separate from my professional experience.

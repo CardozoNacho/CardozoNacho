@@ -14,6 +14,8 @@ Relevo necesidades directamente con usuarios, organizo tareas en Jira, muestro l
 
 En **SIGAP Facturas AI** desarrollé un flujo de extracción de datos de facturas con Python y un modelo multimodal local, integrado con la aplicación Java de SIGAP. Ya procesó lotes de facturas; todavía no se cuantificaron precisión ni ahorro de tiempo.
 
+También desarrollé y desplegué en producción la **automatización de carga de facturas SIGAP → RCC**, con Python y Playwright integrados con Java y PostgreSQL. Valida los datos, consulta registros existentes para evitar altas duplicadas y comprueba los registros del portal antes de actualizar el estado de cada factura en SIGAP. Incluye pruebas automatizadas de componentes, instalador para Windows y protección local de credenciales con Windows DPAPI. Todavía no se cuantificaron su uso ni el ahorro de tiempo.
+
 ## Proyectos académicos seleccionados
 
 Son proyectos académicos individuales, separados de mi experiencia laboral.
